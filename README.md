@@ -1,2 +1,2 @@
 # Tellinq Points Bot
-just a meme bot tbh
+points bot for ctt 
